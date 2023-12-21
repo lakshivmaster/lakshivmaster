@@ -1,0 +1,3 @@
+- 👋 Hi, I’m lakshiv kumar.
+- 👀 I’m interested in programming the arduino and drawing of anime.
+- 🌱 I’m currently learning how to program a arduino UNO.
